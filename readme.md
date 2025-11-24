@@ -10,3 +10,7 @@ conda activate labelimg
 
 conda install pyqt=5
 conda install -c anaconda lxml
+
+
+after that open the file using cmd:
+python labelimg.py
