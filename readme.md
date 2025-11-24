@@ -14,3 +14,5 @@ conda install -c anaconda lxml
 
 after that open the file using cmd:
 python labelimg.py
+
+![alt text](image.png)
