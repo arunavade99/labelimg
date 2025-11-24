@@ -1,7 +1,0 @@
-git link: https://github.com/HumanSignal/labelImg/tree/master
-
-create env with python==3.9.7
-git clone https://github.com/HumanSignal/labelImg.git
-
-conda install pyqt=5
-conda install -c anaconda lxml
